@@ -1,0 +1,64 @@
+Process followed in JIra
+
+
+
+Project creation----------->Backlogs
+
+
+
+
+Release---.monthly---JAN 2021---->5
+
+Iteration 1 ---->2 weeks-------->3 US    entire SDLC lifecycle is followed
+
+Iteration 2------> 2 week------>2 US    entire SDLC lifecycle is followed
+
+
+5
+
+
+Release 2---monthly ----Feb 2021---->4
+
+Iteration 1 ---->2 weeks-------->2 US    entire SDLC lifecycle is followed
+
+Iteration 2------> 2 week------>2 US    entire SDLC lifecycle is followed
+
+
+
+
+BA 20 requirements
+
+
+
+
+
+Backlogs
+11
+
+
+
+
+
+
+Jmeter Flow
+
+Test Plan
+
+	Test Thread Group ---------->Enter number of user
+		Sample------->Protocol (HTTP for web based application)
+		Listerner----> Reports	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
